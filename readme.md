@@ -2,6 +2,10 @@
 
 The World Oasis is a comprehensive web application designed for hotel employees to streamline various tasks and manage hotel operations efficiently. The application leverages modern web technologies such as React Router, Styled Components, React Query, Context API, React Hook Form, React icons, React hot toast, Recharts, date-fns, and Supabase to deliver a powerful and user-friendly experience.
 
+## Previews
+
+![Website Screenshot](https://worldoasis.vercel.app/app.png)
+
 ## Features
 
 - **Secure User Authentication**: Only hotel employees can create an account and log into the application, ensuring that only authorized personnel can access its features.
