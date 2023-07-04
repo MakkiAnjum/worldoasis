@@ -42,6 +42,9 @@ The World Oasis is a comprehensive web application designed for hotel employees 
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository
-
-: `git clone https://github.com/makkianjum/worldoasis.git`. 2. Navigate to the project directory: `cd your-repo`. 3. Install the dependencies: `npm install` or `yarn install`. 4. Configure the necessary environment variables for Supabase or any other required APIs. 5. Start the development server: `npm run dev` or `yarn dev`. 6. Open your browser and visit `http://localhost:5173` to access the application.
+1. Clone the repository : `git clone https://github.com/makkianjum/worldoasis.git`.
+2. Navigate to the project directory: `cd your-repo`.
+3. Install the dependencies: `npm install` or `yarn install`.
+4. Configure the necessary environment variables for Supabase or any other required APIs.
+5. Start the development server: `npm run dev` or `yarn dev`.
+6. Open your browser and visit `http://localhost:5173` to access the application.
